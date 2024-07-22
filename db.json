@@ -1,0 +1,129 @@
+{
+  "students": [
+    {
+      "username": "test",
+      "email": "test@test.com",
+      "password": "111",
+      "subjects": [
+        {
+          "name": "arbic",
+          "id": "2154",
+          "degree": 1
+        },
+        {
+          "name": "computer science",
+          "id": "4daf",
+          "degree": 2
+        },
+        {
+          "name": "computer science",
+          "id": "4daf",
+          "degree": 0
+        }
+      ],
+      "id": "ba54"
+    },
+    {
+      "username": "ff",
+      "email": "ff@ff.com",
+      "password": "111",
+      "subjects": [
+        {
+          "name": "computer science",
+          "id": "4daf",
+          "degree": 2
+        },
+        {
+          "name": "arbic",
+          "id": "2154",
+          "degree": 0
+        }
+      ],
+      "id": "6044"
+    },
+    {
+      "username": "ss",
+      "email": "ss@ss.com",
+      "password": "111",
+      "subjects": [
+        {
+          "name": "arbic",
+          "id": "2154",
+          "degree": 0
+        }
+      ],
+      "id": "9f04"
+    },
+    {
+      "id": "df35",
+      "username": "aa",
+      "email": "aa@aa.com",
+      "password": "111"
+    },
+    {
+      "id": "e964",
+      "username": "dd",
+      "email": "dd@dd.com",
+      "password": "111"
+    }
+  ],
+  "doctor": [
+    {
+      "username": "admin",
+      "email": "admin@admin.com",
+      "password": "123",
+      "id": "1"
+    }
+  ],
+  "subjects": [
+    {
+      "name": "math",
+      "questions": [],
+      "id": "238f"
+    },
+    {
+      "name": "arbic",
+      "questions": [
+        {
+          "question": "ssssssss",
+          "answer1": "s",
+          "answer2": "ss",
+          "answer3": "ss",
+          "answer4": "ss",
+          "correctAnswer": "s"
+        }
+      ],
+      "id": "2154"
+    },
+    {
+      "id": "4daf",
+      "name": "computer science",
+      "questions": [
+        {
+          "question": "aaa",
+          "answer1": "aa",
+          "answer2": "aa",
+          "answer3": "aa",
+          "answer4": "aa",
+          "correctAnswer": "aa"
+        },
+        {
+          "question": "ww",
+          "answer1": "ww",
+          "answer2": "ww",
+          "answer3": "ww",
+          "answer4": "ww",
+          "correctAnswer": "ww"
+        }
+      ]
+    }
+  ],
+  "login": [
+    {
+      "username": "dd",
+      "role": "students",
+      "userId": "e964",
+      "id": "1"
+    }
+  ]
+}

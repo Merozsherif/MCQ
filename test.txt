@@ -1,0 +1,6 @@
+implements OnInit {
+  constructor (){}
+  ngOnInit(): void {
+
+  }
+}
